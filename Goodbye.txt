@@ -1,2 +1,2 @@
-print ("Goodbye World")
-print ("Warm kitty sleep")
+print ("Goodbye World");
+print ("Warm kitty sleep");
